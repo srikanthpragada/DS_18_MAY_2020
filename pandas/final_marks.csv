@@ -1,0 +1,12 @@
+name,subject,marks,passmark,grade
+Bill,Java,90.0,50,B
+Bill,Python,95.0,70,A
+Steve,Java,80.0,50,C
+Steve,C,90.0,50,B
+Roberts,HTML,98.0,50,A
+Roberts,Java,60.0,50,C
+Roberts,Python,70.0,70,C
+Steve,Python,,70,C
+Henry,,60.0,50,C
+Steve,Python,94.0,70,A
+Mark,Java,90.0,50,B
